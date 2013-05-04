@@ -7,7 +7,7 @@
 	include($path."/_/php/header.php");
 ?>
 
-    <header role="header">
+    <header role="banner">
         <h1>Header</h1>
     </header>
     <div role="main">
