@@ -16,7 +16,7 @@ echo '
 
     <link rel="stylesheet" href="'.$path.'/_/css/style.css">
 
-    <script src="'.$path.'/_/js/libs/modernizr-2.5.3.min.js"></script>
+    <script src="'.$path.'/_/js/libs/modernizr-2.6.2.custom.min.js"></script>
 </head>
 <body>
 ';
